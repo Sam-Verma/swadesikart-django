@@ -92,7 +92,8 @@ Visit `http://127.0.0.1:8000/` in your browser.
 ---
 
 ## 📸 Screenshots
-*(You can add screenshots of your home page, product details, cart, and dashboard here to showcase the UI)*
+### Login Page
+![Login Page](screenshots/login_page.png)
 
 ---
 
